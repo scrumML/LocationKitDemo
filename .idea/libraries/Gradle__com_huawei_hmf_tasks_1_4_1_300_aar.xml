@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hmf:tasks:1.4.1.300@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tasks-1.4.1.300.aar/6bf0273121767bd7e87c819c38f4059f/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tasks-1.4.1.300.aar/6bf0273121767bd7e87c819c38f4059f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tasks-1.4.1.300.aar/6bf0273121767bd7e87c819c38f4059f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

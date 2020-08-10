@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\androidStudio\\workPlace\\LocationKit-master\\java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-television-v13\\values-television-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\z84170229\\.gradle\\caches\\transforms-1\\files-1.1\\update-2.0.6.302.aar\\7a0ab8ea9ff6d17a768b88187c237266\\res\\values-television-v13\\values-television-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,162",
+                        "endColumns": "52,53,52",
+                        "endOffsets": "103,157,210"
+                    }
+                }
+            ]
+        }
+    ]
+}

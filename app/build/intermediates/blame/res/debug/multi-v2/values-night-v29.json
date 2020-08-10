@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\androidStudio\\workPlace\\LocationKit-master\\java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v29\\values-night-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\z84170229\\.gradle\\caches\\transforms-1\\files-1.1\\ui-5.0.0.300.aar\\28a29875d5a7936640a624ae65d202de\\res\\values-night-v29\\values-night-v29.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,107,160",
+                        "endColumns": "51,52,51",
+                        "endOffsets": "102,155,207"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\z84170229\\.gradle\\caches\\transforms-1\\files-1.1\\update-2.0.6.302.aar\\7a0ab8ea9ff6d17a768b88187c237266\\res\\values-night-v29\\values-night-v29.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,162",
+                        "endColumns": "52,53,52",
+                        "endOffsets": "103,157,210"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "212,265,319",
+                        "endColumns": "52,53,52",
+                        "endOffsets": "260,314,367"
+                    }
+                }
+            ]
+        }
+    ]
+}
