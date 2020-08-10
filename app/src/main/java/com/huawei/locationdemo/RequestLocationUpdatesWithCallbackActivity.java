@@ -51,6 +51,7 @@ public class RequestLocationUpdatesWithCallbackActivity extends BaseActivity imp
 
     private SettingsClient settingsClient;
 //
+    //
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
